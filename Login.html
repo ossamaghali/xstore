@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style/login.css">
+	<title>XStore</title>
+</head>
+<body>
+	<section id="back_Login">
+		<main id="back_Sigin">
+			<div id="Logo_Sigin">XSore</div>
+			<article id="back_input_sigin">
+		<form method="POST">
+			<div id="text_input" class="text_Phone">Phone</div>
+			<br>
+			<input type="email" id="phone_Sigin" name="email" required>
+			<div id="Icon_phone">
+				<svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g>
+					<path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z">
+					</path>
+				   </g></svg>
+			</div>
+			<br>
+			<div id="text_input" class="text_Password">Password</div>
+			<br>
+			<input type="password" id="password_Sigin" name="password_to_sigin" required minlength="4" >
+			<div id="Icon_password"></div>
+			<br>
+			<div id="Text_Forget_password">
+				Forget Password?
+			</div>
+			<button type="submit" id="submit" name="submit">Log in</button>
+		</form>
+			<div id="back_border_text_or">
+				<div id="border_or"></div>
+				<div id="text_or">&nbsp;OR&nbsp;</div>
+				<div id="border_or"></div>
+			</div>
+                <a href="" id="a_account">
+				<button id="btn_Sigin_Facebook">
+					<div id="Icon_Sigin_Facebook"></div>Login with Facebook
+				</button>
+			 </a>
+			 <a href="" id="a_account">
+				<button  id="btn_Sigin_Twitter">
+					<div id="Icon_Sigin_Twitter"></div>Login with Twitter
+				</button>
+			 </a>
+			<div id="back_Text_Create_Account">
+				<div id="Text_account">don't have an Account?</div>
+				<div id="Text_Create_account" onclick="Signup()">Sign up</div>
+			</div>
+		</article>
+		</main>
+		
+	</section>
+
+	<script src="script/login.js"></script>
+</body>
+</html>

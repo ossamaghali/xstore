@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style/login.css">
+	<title>XStore</title>
+
+
+</head>
+
+<body>
+	<section id="back_Login">
+		<main id="back_Sigup">
+			<div id="Logo_Sigin">XSore</div>
+			<article id="back_input_sigup">
+				<form method="POST" action="home.html">
+					<br>
+					<div id="text_signup" class="text_username">Username</div>
+					<input type="text" id="input_Sigup" class="username" name="username">
+
+					<div id="text_signup" class="text_email">Phone</div>
+					<input type="text" id="input_Sigup" class="email" name="phone">
+
+					<div id="text_signup" class="text_password">Password</div>
+					<input type="password" id="input_Sigup" class="password" name="password">
+					<br>
+					<div id="Text_Forget_password_signup">Forget Password?</div>
+					<button type="submit" id="submit_signup" name="submit_signp">Sign up</button>
+				</form>
+				<button id="cancel">Cancel</button>
+			</article>
+		</main>
+	</section>
+
+
+	<script src="script/signup.js"></script>
+</body>
+
+</html>
+<!--
+<?php
+
+$con = mysqli_connect("localhost", "root", "", "login");
+if (isset($_POST["submit_signp"])) {
+	if (!($_POST["username"] == "") && !($_POST["phone"] == "") && !($_POST["password"] == "")) {
+		$username = $_POST["username"];
+		$phone = $_POST["phone"];
+		$password = $_POST["password"];
+
+		$sql = "INSERT INTO `signup`(`username`, `phone`, `password`) VALUES ('$username','$phone','$password')";
+		mysqli_query($con, $sql);
+		Header("Location: home.html");
+	}
+}
+
+?>
+-->
