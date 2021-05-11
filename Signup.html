@@ -27,7 +27,7 @@
 					<input type="password" id="input_Sigup" class="password" name="password">
 					<br>
 					<div id="Text_Forget_password_signup">Forget Password?</div>
-					<button type="submit" id="submit_signup" name="submit_signp">Sign up</button>
+					<button type="submit" id="submit_signup" name="submit_signup">Sign up</button>
 				</form>
 				<button id="cancel">Cancel</button>
 			</article>
@@ -39,11 +39,11 @@
 </body>
 
 </html>
-<!--
+
 <?php
 
 $con = mysqli_connect("localhost", "root", "", "login");
-if (isset($_POST["submit_signp"])) {
+if (isset($_POST["submit_signup"])) {
 	if (!($_POST["username"] == "") && !($_POST["phone"] == "") && !($_POST["password"] == "")) {
 		$username = $_POST["username"];
 		$phone = $_POST["phone"];
@@ -51,9 +51,7 @@ if (isset($_POST["submit_signp"])) {
 
 		$sql = "INSERT INTO `signup`(`username`, `phone`, `password`) VALUES ('$username','$phone','$password')";
 		mysqli_query($con, $sql);
-		Header("Location: home.html");
 	}
 }
 
 ?>
--->

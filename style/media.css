@@ -1,0 +1,1591 @@
+@media only screen and (min-width: 1100px) and (max-width: 1306px){
+	
+}
+@media only screen and (min-width: 1050px) and (max-width: 1099px){
+
+
+}
+
+@media only screen and (min-width: 870px) and (max-width: 995px){
+		/*header*/
+ 
+	                   /*Home*/
+  #back_slider_Home{
+	width: 28%;
+	height: 350px;
+ }
+ #Icon_Search_bar{
+	position: relative;
+	left: 10%;
+}
+				  /*section*/
+				  
+	      /*Trend*/
+    #Trend{
+		width: 75%;
+	}
+     #Shop{
+	     width: 75%;
+     }
+}
+@media only screen and (min-width: 780px) and (max-width: 869px){
+					/*header*/
+
+
+	                   /*Home*/
+	.main_slider{
+		width: 100%;
+	}
+	#back_slider_Home{
+	   width: 32%;
+	   height: 350px;
+    }
+    #back_Text_Many_Buy{
+	    width: 35%;
+    }
+	#Icon_delete_Search{
+		left: 3%;
+	}			
+			  /*section*/
+
+			 /*Trend*/
+	#Trend{
+		width: 85%;
+	}
+			/*Shop*/
+	#Shop{
+		width: 90%;
+	}		
+
+	#Icon_feedback:nth-child(1){
+		width: 17px;
+		height: 17px;
+	  }
+	  #Icon_feedback:nth-child(2){
+		  width: 17px;
+		  height: 17px;
+	    }
+	    #Icon_feedback:nth-child(3){
+		  width: 17px;
+		  height: 17px;
+	    }
+	    #Icon_feedback:nth-child(4){
+		  width: 17px;
+		  height: 17px;
+	    }
+	    #Icon_feedback:nth-child(5){
+		  width: 17px;
+		  height: 17px;
+	    }		 
+   }
+@media only screen and (min-width: 630px) and (max-width: 779px){
+	   /*menu*/
+	   .Icon_menu{
+		top: 2%;
+		left: 5%;
+		display: block;
+	}
+	.Icon_cancel{
+		display: block;
+	}
+
+	 #check:checked ~ label .Icon_cancel{
+	  left: 35%;
+  }
+					/*header*/
+	#left_logo_bar{
+		width: 40%;
+	}
+	#logo_bar{
+		left: 40%;
+		top: 14px;
+	}
+	#back_list_bar{
+		display: none;
+	}
+	#right_Header{
+		width: 42%;
+	}
+	#Search_bar{
+		width: 78%;
+		left: 0%;
+	}
+	#Icon_Search_bar{
+		position: relative;
+		left: 4%;
+	}
+	#Icon_delete_Search{
+		position: relative;
+		left: -4%;
+	}		
+				    /*Home*/
+	       #Home{
+		    height: 530px;
+		   }
+	.main_slider{
+		width: 100%;
+	}
+	#back_slider_Home{
+	   width: 32%;
+	   height: 300px;
+	   left: 26%;
+    }
+    #back_Text_Many_Buy{
+	    width: 38%;
+	    height:58%;
+    }
+    #Text_cover_slider{
+	    font-size: 20px;
+    }
+    #text_many_slider{
+	  font-size: 18px;
+	  line-height: 30px;
+    }
+    #back_btn_slider_Home{
+	    width: 20%;
+    }
+						  /*section*/
+
+			 /*Trend*/
+	#Trend{
+		width: 95%;
+	}
+	 
+		/*Icon Feedback*/
+		#back_feedback{
+
+		}
+		#Icon_feedback:nth-child(1){
+		   width: 17px;
+		   height: 17px;
+		}
+		#Icon_feedback:nth-child(2){
+			width: 17px;
+			height: 17px;
+		  }
+		  #Icon_feedback:nth-child(3){
+			width: 17px;
+			height: 17px;
+		  }
+		  #Icon_feedback:nth-child(4){
+			width: 17px;
+			height: 17px;
+		  }
+		  #Icon_feedback:nth-child(5){
+			width: 17px;
+			height: 17px;
+		  }
+			/*Shop*/
+	#Shop{
+		width: 98%;
+	}
+	
+			/*About*/
+			#left_logo_About{
+				width: 35%;
+				height: 150px;
+			} 
+			#Logo_About{
+				top: 25%;
+			}
+			#Social_media{
+				width: 70%;
+				height: 30px;
+			}
+			#center_About{
+				width: 50%;
+				height: 150px;
+				position: relative;
+				left: 5%;
+			}
+			#left_About{
+				width: 30%;
+				height: 100%;
+				float: left;
+				position: relative;
+				left: 8%;
+			}
+			#right_contact{
+				width: 70%;
+				height: 100%;
+				float: left;
+				position: relative;
+				left: 8%;
+			}
+			#right_About{
+				width: 80%;
+				height: 240px;
+				position: relative;
+				left: 10%;
+			}			
+			#left_Comment{
+				width: 50%;
+			}
+			#Input_Comment{
+			
+			}
+			#right_Settings{
+				width: 40%;
+				position: relative;
+				left: 5%;
+			}
+			#Text_Settings_Theme{
+			
+			}
+			#Select{
+				width: 90%;
+				position: relative;
+	
+			}
+   }
+   @media only screen and (min-width: 550px) and (max-width: 629px){
+	 /*menu*/
+	 .Icon_menu{
+		top: 2%;
+		left: 5%;
+		display: block;
+	}
+	.Icon_cancel{
+		display: block;
+	}
+
+	 #check:checked ~ label .Icon_cancel{
+	  left: 38%;
+  }
+					/*header*/
+	#left_logo_bar{
+		width: 45%;
+	}
+	#logo_bar{
+		left: 40%;
+	}
+	#back_list_bar{
+		display: none;
+	}
+	#right_Header{
+		width: 45%;
+	}
+
+	#Search_bar{
+		width: 73%;
+		left: 1%;
+	}
+	#Icon_Search_bar{
+		position: relative;
+		left: 6%;
+	}
+	#Icon_delete_Search{
+		position: relative;
+		left: -4%;
+	}
+
+				    /*Home*/
+	       #Home{
+		    height: 530px;
+		   }
+	.main_slider{
+		width: 100%;
+	}
+	#back_slider_Home{
+	   width: 36%;
+	   height: 300px;
+	   left: 23%;
+    }
+    #back_Text_Many_Buy{
+	    width: 38%;
+	    height:55%;
+    }
+    #Text_cover_slider{
+	    font-size:17px;
+    }
+    #text_many_slider{
+	  font-size: 16px;
+	  line-height: 20px;
+    }
+    #back_btn_slider_Home{
+	    width: 20%;
+    }
+    #Icon_feedback_slider:nth-child(1){
+	    width: 20px;
+	    height: 20px;
+    }
+    #Icon_feedback_slider:nth-child(2){
+	     width: 20px;
+	     height: 20px;
+     }
+     #Icon_feedback_slider:nth-child(3){
+	     width: 20px;
+	     height: 20px;
+     }
+     #Icon_feedback_slider:nth-child(4){
+	     width: 20px;
+	     height: 20px;
+     }
+     #Icon_feedback_slider:nth-child(5){
+	     width: 20px;
+	     height: 20px;
+	}
+	#btn_buy_slider{
+		width: 90%;
+		height: 35px;
+		left: 5%;
+	}
+				   /*section*/
+
+			 /*Trend*/
+	#Trend{
+		width: 95%;
+	}
+		/*Icon Feedback*/
+		#back_feedback{
+
+		}
+		#Icon_feedback:nth-child(1){
+		   width: 17px;
+		   height: 17px;
+		}
+		#Icon_feedback:nth-child(2){
+			width: 17px;
+			height: 17px;
+		  }
+		  #Icon_feedback:nth-child(3){
+			width: 17px;
+			height: 17px;
+		  }
+		  #Icon_feedback:nth-child(4){
+			width: 17px;
+			height: 17px;
+		  }
+		  #Icon_feedback:nth-child(5){
+			width: 17px;
+			height: 17px;
+		  }
+			/*Shop*/
+	#Shop{
+		width: 98%;
+	}
+			/*About*/
+		#left_logo_About{
+			width: 40%;
+			height: 150px;
+		} 
+		#Logo_About{
+			top: 25%;
+			font-size: 20px;
+		}
+		#Social_media{
+			width: 70%;
+			height: 30px;
+		     top: 33%;
+		}
+		#center_About{
+			width: 50%;
+			height: 150px;
+			position: relative;
+			left: 5%;
+		}
+		#left_About{
+			width: 30%;
+			height: 100%;
+			float: left;
+			position: relative;
+			left: 8%;
+		}
+		#right_contact{
+			width: 70%;
+			height: 100%;
+			float: left;
+			position: relative;
+			left: 8%;
+		}
+		#right_About{
+			width: 80%;
+			height: 240px;
+			position: relative;
+			left: 10%;
+		}			
+		#left_Comment{
+			width: 50%;
+		}
+		#Input_Comment{
+		
+		}
+		#right_Settings{
+			width: 40%;
+			position: relative;
+			left: 5%;
+		}
+		#Text_Settings_Theme{
+		
+		}
+		#Select{
+			width: 90%;
+			position: relative;
+
+		}
+   }
+   @media only screen and (min-width: 470px) and (max-width: 549px){
+		 /*menu*/
+		 .Icon_menu{
+			top: 2%;
+			left: 5%;
+			display: block;
+		}
+		.Icon_cancel{
+			display: block;
+		}
+		 .back_menu{
+			 width: 50%;
+			 left: -55%;
+			 display: block;
+		 }
+		 #menu_bar li a {
+			font-size: 14px;
+		}
+		 #check:checked ~ label .Icon_cancel{
+		  left: 42%;
+	  }
+					/*header*/
+	#left_logo_bar{
+		width: 48%;
+	}
+	#logo_bar{
+		left: 45%;
+	}
+	#back_list_bar{
+		display: none;
+	}
+	#right_Header{
+		width: 52%;
+	}
+	#Search_bar{
+		width: 70%;
+		left: 1%;
+	}
+	#Icon_Search_bar{
+		position: relative;
+		left: 6%;
+	}
+	#Icon_delete_Search{
+		position: relative;
+		left: -5%;
+	}			
+				    /*Home*/
+	       #Home{
+		    height: 350px;
+		   }
+	.main_slider{
+		width: 100%;
+	}
+	#back_slider_Home{
+	   width: 35%;
+	   height: 250px;
+	   left: 23%;
+    }
+    #back_Text_Many_Buy{
+	    width: 35%;
+	    height:75%;
+    }
+    #back_Text_cover_slider{
+	    height: 48%;
+    }
+    #Text_cover_slider{
+	    font-size:14px;
+	    line-height: 30px ;
+    }
+    #text_many_slider{
+	  font-size: 15px;
+	  line-height: 30px;
+    }
+    #back_btn_slider_Home{
+	    width: 20%;
+    }
+    #text_feedback_slider{
+	    font-size: 18px;
+	    line-height: 30px;
+    }
+    #Icon_feedback_slider:nth-child(1){
+	    width: 16px;
+	    height: 16px;
+    }
+    #Icon_feedback_slider:nth-child(2){
+	     width: 16px;
+	     height: 16px;
+     }
+     #Icon_feedback_slider:nth-child(3){
+	     width: 16px;
+	     height: 16px;
+     }
+     #Icon_feedback_slider:nth-child(4){
+	     width: 16px;
+	     height: 16px;
+     }
+     #Icon_feedback_slider:nth-child(5){
+	     width: 16px;
+	     height: 16px;
+	}
+	#btn_buy_slider{
+		width: 80%;
+		height: 32px;
+		left: 0%;
+		font-size: 14px;
+	}
+				   /*section*/
+
+			 /*Trend*/
+	#Trend{
+		width: 100%;
+	}
+	#back_text_trend{
+		width: 30%;
+		height: 45px;
+	}
+	#back_cover_trend{
+		width: 35%;
+		margin: 2% 2% 2% 6%;
+	}
+		/*Icon Feedback*/
+		#back_feedback{
+
+		}
+		#Icon_feedback:nth-child(1){
+		   width: 15px;
+		   height: 15px;
+		}
+		#Icon_feedback:nth-child(2){
+			width: 15px;
+			height: 15px;
+		  }
+		  #Icon_feedback:nth-child(3){
+			width: 15px;
+			height: 15px;
+		  }
+		  #Icon_feedback:nth-child(4){
+			width: 15px;
+			height: 15px;
+		  }
+		  #Icon_feedback:nth-child(5){
+			width: 15px;
+			height: 15px;
+		  }
+			/*Shop*/
+	#Shop{
+		width: 100%;
+	}
+	#back_text_shop{
+	}			
+	#back_cover_shop{
+		width: 38%;
+		margin: 2% 2% 2% 4%;
+	}	 
+	#back_shop_bottom{
+		display: flex;
+		overflow: auto;
+	}
+	#back_cover_shop_bottom{
+		min-width: 35%;
+		height: 220px;
+	}
+		/*About*/
+		#left_logo_About{
+			width: 40%;
+			height: 150px;
+		} 
+		#Logo_About{
+			top: 25%;
+			font-size: 18px;
+		}
+		#Social_media{
+			width: 70%;
+			height: 30px;
+		     top: 33%;
+		}
+		#center_About{
+			width: 55%;
+			height: 150px;
+			position: relative;
+			left: 0%;
+		}
+		#left_About{
+			width: 30%;
+			height: 100%;
+			float: left;
+			position: relative;
+			left: 8%;
+		}
+		#right_contact{
+			width: 70%;
+			height: 100%;
+			float: left;
+			position: relative;
+			left: 8%;
+		}
+		#Icon_Call{
+			width: 12px;
+			height: 12px;
+		}
+		#right_About{
+			width: 90%;
+			height: 230px;
+			position: relative;
+			left: 5%;
+		}			
+		#left_Comment{
+			width: 50%;
+		}
+		#Input_Comment{
+		 
+		}
+		#right_Settings{
+			width: 40%;
+			position: relative;
+			left: 5%;
+		}
+		#Text_Settings_Theme{
+		
+		}
+		#Select{
+			width: 90%;
+			position: relative;
+
+		}
+   }
+   
+     @media only screen and (min-width: 370px) and (max-width: 469px){
+     	 /*menu*/
+		 .Icon_menu{
+			top: 2%;
+			left: 5%;
+			display: block;
+		}
+		.Icon_cancel{
+			display: block;
+		}
+		 .back_menu{
+			 width: 55%;
+			 left: -60%;
+			 display: block;
+		 }
+		 #menu_bar li a {
+			font-size: 14px;
+		}
+		 #check:checked ~ label .Icon_cancel{
+		  left: 45%;
+	  }
+					/*header*/
+	#left_logo_bar{
+		width: 48%;
+	}
+	#logo_bar{
+		left: 45%;
+		font-size: 20px;
+	}
+	#menu_bar li a {
+		font-size: 14px;
+	}
+	#back_list_bar{
+		display: none;
+	}
+	#right_Header{
+		width: 52%;
+	}
+	#back_Search_bar{
+		height: 40px;
+	}
+	#Search_bar{
+		width: 63%;
+		height: 35px;
+		left: 1%;
+	}
+	#Sign_in{
+		width: 42%;
+		height: 32px;
+		top: 18%;
+	}
+	#Icon_Search_bar{
+		position: relative;
+		left: 8%;
+		top: 15%;
+	}
+	#Icon_delete_Search{
+		position: relative;
+		left: -5%;
+	}			
+				  /*Home*/
+	       #Home{
+		    height: 350px;
+		   }
+	.main_slider{
+		width: 100%;
+	}
+	#back_slider_Home{
+	   width: 32%;
+	   height: 180px;
+	   left: 22%;
+	   top: 20%;
+    }
+    #back_Text_Many_Buy{
+	    width: 35%;
+	    height:65%;
+	    position: relative;
+	    top: 20%;
+    }
+    #back_Text_cover_slider{
+	    height: 55%;
+    }
+    #Text_cover_slider{
+	    font-size:13px;
+	    line-height: 25px;
+    }
+    #text_many_slider{
+	  font-size: 13px;
+	  line-height: 10px;
+    }
+
+    #text_feedback_slider{
+	    font-size: 15px;
+	    line-height: 25px;
+    }
+    #Icon_feedback_slider:nth-child(1){
+	    width: 16px;
+	    height: 16px;
+    }
+    #Icon_feedback_slider:nth-child(2){
+	     width: 16px;
+	     height: 16px;
+     }
+     #Icon_feedback_slider:nth-child(3){
+	     width: 16px;
+	     height: 16px;
+     }
+     #Icon_feedback_slider:nth-child(4){
+	     width: 16px;
+	     height: 16px;
+     }
+     #Icon_feedback_slider:nth-child(5){
+	     width: 16px;
+	     height: 16px;
+	}
+	#btn_buy_slider{
+		width: 100%;
+		height: 28px;
+		left: 0%;
+		font-size: 13px;
+	}
+	#back_btn_slider_Home{
+	  width: 25%;
+	  float: none;
+	  margin: auto;
+	  top:0px;
+       left: 0%;
+	}
+				   /*section*/
+
+			 /*Trend*/
+	#Trend{
+		width: 100%;
+	}
+	#back_text_trend{
+		width: 30%;
+		height: 45px;
+	}
+	#back_cover_trend{
+		width: 45%;
+		height: 230px;
+		margin: 2% 0% 0% 0%;
+		box-shadow: none;
+		border: 1px solid grey;
+	}
+		/*Icon Feedback*/
+		#back_feedback{
+
+		}
+		#Icon_feedback:nth-child(1){
+		   width: 15px;
+		   height: 15px;
+		}
+		#Icon_feedback:nth-child(2){
+			width: 15px;
+			height: 15px;
+		  }
+		  #Icon_feedback:nth-child(3){
+			width: 15px;
+			height: 15px;
+		  }
+		  #Icon_feedback:nth-child(4){
+			width: 15px;
+			height: 15px;
+		  }
+		  #Icon_feedback:nth-child(5){
+			width: 15px;
+			height: 15px;
+		  }
+			/*Shop*/
+	#Shop{
+		width: 100%;
+	}			
+	#back_cover_shop{
+		width: 45%;
+		margin: 2% 0% 2% 0%;
+		box-shadow: none;
+		border: 1px solid grey;
+	}	 
+	#back_shop_bottom{
+		display: flex;
+		overflow: auto;
+	}
+	#back_cover_shop_bottom{
+		min-width: 40%;
+		height: 230px;
+		border: 1px solid grey;
+		border-radius: 10px 10px 0px 0px;
+		box-shadow: 0px 0px 0px;
+	}
+	#btn_add_card_shop{
+		opacity: 1;
+	}
+	#back_feedback_shop_bottom{
+	
+	}
+	#Icon_feedback_shop_bottom:nth-child(1){
+		width: 18px;
+		height: 18px;
+	}
+	#Icon_feedback_shop_bottom:nth-child(2){
+		width: 18px;
+		height: 18px;
+	}
+	#Icon_feedback_shop_bottom:nth-child(3){
+		width: 18px;
+		height: 18px;
+	}
+	#Icon_feedback_shop_bottom:nth-child(4){
+		width: 18px;
+		height: 18px;
+	}
+	#Icon_feedback_shop_bottom:nth-child(5){
+		width: 18px;
+		height: 18px;
+	}
+	#btn_add_card_shop_bottom{
+		width: 65%;
+		height: 30px;
+		left: 19%;
+	}
+		/*About*/
+		#left_logo_About{
+			width: 100%;
+			height: 70px;
+		} 
+		#Logo_About{
+			width: 50%;
+			height: 50%;
+			top: 25%;
+			font-size: 18px;
+			line-height: 30px;
+			float: left;
+		}
+		#Social_media{
+			width: 40%;
+			height: 30px;
+			top: 20%;
+			float: left;
+		}
+		#center_About{
+			width: 80%;
+			height: 150px;
+			position: relative;
+			left: 0%;
+		}
+		#left_About{
+			width: 30%;
+			height: 100%;
+			float: left;
+			position: relative;
+			left: 8%;
+		}
+		#right_contact{
+			width: 70%;
+			height: 100%;
+			float: left;
+			position: relative;
+			left: 12%;
+		}
+		#Icon_Call{
+			width: 12px;
+			height: 12px;
+		}
+		#right_About{
+			width: 95%;
+			height: 230px;
+			position: relative;
+			left: 2%;
+		}			
+		#left_Comment{
+			width: 55%;
+		}
+		#Input_Comment{
+		 
+		}
+		#right_Settings{
+			width: 40%;
+			position: relative;
+			left: 5%;
+		}
+		#Text_Settings_Theme{
+		
+		}
+		#Select{
+			width: 90%;
+			position: relative;
+
+		}
+   }
+   
+   
+  @media only screen and (min-width: 280px) and (max-width: 369px){
+     	   	 /*menu*/
+		 .Icon_menu{
+			top: 2%;
+			left: 5%;
+			display: block;
+		}
+		.Icon_cancel{
+			display: block;
+		}
+		 .back_menu{
+			 width: 60%;
+			 left: -65%;
+			 display: block;
+		 }
+		 #menu_bar li a {
+			font-size: 14px;
+		}
+		 #check:checked ~ label .Icon_cancel{
+		  left: 48%;
+	  }
+					/*header*/
+	#left_logo_bar{
+		width: 45%;
+	}
+	#logo_bar{
+		left: 45%;
+		font-size: 20px;
+	}
+
+	#menu_bar li a {
+		font-size: 14px;
+	}
+	#back_list_bar{
+		display: none;
+	}
+	#right_Header{
+		width: 55%;
+	}
+	
+	#back_Search_bar{
+		height: 40px;
+	}
+	#Search_bar{
+		width: 63%;
+		height: 35px;
+		left: 1%;
+	}
+	#Sign_in{
+		width: 42%;
+		height: 32px;
+		top: 18%;
+	}
+	#Icon_Search_bar{
+		position: relative;
+		left: 8%;
+		top: 15%;
+	}
+	#Icon_delete_Search{
+		position: relative;
+		left: -5%;
+	}			
+				    /*Home*/
+	       #Home{
+		    height: 300px;
+		   }
+	.main_slider{
+		width: 100%;
+	}
+	#back_slider_Home{
+	   width: 35%;
+	   height: 180px;
+	   left: 18%;
+	   top: 20%;
+    }
+    #back_Text_Many_Buy{
+	    width: 43%;
+	    height:70%;
+	    position: relative;
+	    top: 20%;
+    }
+    #back_Text_cover_slider{
+	    height: 55%;
+    }
+    #Text_cover_slider{
+	    font-size:13px;
+	    line-height: 30px;
+    }
+    #text_many_slider{
+	  font-size: 13px;
+	  line-height: 10px;
+    }
+
+    #text_feedback_slider{
+	    font-size: 15px;
+	    line-height: 25px;
+    }
+    #Icon_feedback_slider:nth-child(1){
+	    width: 16px;
+	    height: 16px;
+    }
+    #Icon_feedback_slider:nth-child(2){
+	     width: 16px;
+	     height: 16px;
+     }
+     #Icon_feedback_slider:nth-child(3){
+	     width: 16px;
+	     height: 16px;
+     }
+     #Icon_feedback_slider:nth-child(4){
+	     width: 16px;
+	     height: 16px;
+     }
+     #Icon_feedback_slider:nth-child(5){
+	     width: 16px;
+	     height: 16px;
+	}
+	#btn_buy_slider{
+		width: 100%;
+		height: 28px;
+		left: 0%;
+		font-size: 13px;
+	}
+	#back_btn_slider_Home{
+	  width: 25%;
+	  float: none;
+	  margin: auto;
+	  top:0px;
+       left: 0%;
+	}
+	   /*section*/
+
+			 /*Trend*/
+	#Trend{
+		width: 100%;
+	}
+	#back_text_trend{
+		width: 30%;
+		height: 45px;
+	}
+	#back_cover_trend{
+		width: 47%;
+		height: 225px;
+		margin: 1% 0% 0% 01%;
+		border: 1px solid rgba(128, 128, 128, 0.568);
+
+		box-shadow: none;
+		left: 0%;
+	}
+	#back_cover_trend:hover{
+		box-shadow: 0px 0px 0px;
+	}
+		/*Icon Feedback*/
+		#back_feedback{
+
+		}
+		#Icon_feedback:nth-child(1){
+		   width: 15px;
+		   height: 15px;
+		}
+		#Icon_feedback:nth-child(2){
+			width: 15px;
+			height: 15px;
+		  }
+		  #Icon_feedback:nth-child(3){
+			width: 15px;
+			height: 15px;
+		  }
+		  #Icon_feedback:nth-child(4){
+			width: 15px;
+			height: 15px;
+		  }
+		  #Icon_feedback:nth-child(5){
+			width: 15px;
+			height: 15px;
+		  }
+		  #btn_add_card_trend{
+			  opacity: 1;
+		  }
+			/*Shop*/
+	#Shop{
+		width: 100%;
+	}			
+	#back_cover_shop{
+		width: 47%;
+		height: 225px;
+		margin: 1% 0% 0% 01%;
+		border: 1px solid rgba(128, 128, 128, 0.568);
+		box-shadow: none;
+		left: 0%;
+	}	 
+	#back_cover_shop:hover{
+		box-shadow: 0px 0px 0px;
+	}
+	#back_shop_bottom{
+		display: flex;
+		overflow: auto;
+	}
+	#back_cover_shop_bottom{
+		min-width: 55%;
+		height: 240px;
+		border: 1px solid rgba(128, 128, 128, 0.568);
+		border-radius: 10px 10px 0px 0px;
+		box-shadow: 0px 0px 0px;
+	}
+	#btn_add_card_shop{
+		opacity: 1;
+	}
+	#back_feedback_shop_bottom{
+	
+	}
+	#Icon_feedback_shop_bottom:nth-child(1){
+		width: 18px;
+		height: 18px;
+	}
+	#Icon_feedback_shop_bottom:nth-child(2){
+		width: 18px;
+		height: 18px;
+	}
+	#Icon_feedback_shop_bottom:nth-child(3){
+		width: 18px;
+		height: 18px;
+	}
+	#Icon_feedback_shop_bottom:nth-child(4){
+		width: 18px;
+		height: 18px;
+	}
+	#Icon_feedback_shop_bottom:nth-child(5){
+		width: 18px;
+		height: 18px;
+	}
+	#btn_add_card_shop_bottom{
+		width: 65%;
+		height: 30px;
+		left: 19%;
+	}
+		/*About*/
+		#left_logo_About{
+			width: 100%;
+			height: 70px;
+		} 
+		#Logo_About{
+			width: 50%;
+			height: 50%;
+			top: 25%;
+			font-size: 18px;
+			line-height: 30px;
+			float: left;
+		}
+		#Social_media{
+			width: 40%;
+			height: 30px;
+			top: 20%;
+			float: left;
+		}
+		#center_About{
+			width: 80%;
+			height: 150px;
+			position: relative;
+			left: 0%;
+		}
+		#left_About{
+			width: 30%;
+			height: 100%;
+			float: left;
+			position: relative;
+			left: 8%;
+		
+		}
+		#right_contact{
+			width: 70%;
+			height: 100%;
+			float: left;
+			position: relative;
+			left: 8%;
+		}
+		#Icon_Call{
+			width: 12px;
+			height: 12px;
+		}
+		#right_About{
+			width: 95%;
+			height: 230px;
+			position: relative;
+			left: 2%;
+		}			
+		#left_Comment{
+			width: 60%;
+		}
+		#Input_Comment{
+		 
+		}
+		#right_Settings{
+			width: 35%;
+			height: 80%;
+			position: relative;
+			left: 5%;
+		}
+		#Text_Settings_Theme{
+		
+		}
+		#Select{
+			width: 90%;
+			position: relative;
+
+		}
+		/*dialog_comment*/
+		#dialog_comment{
+			width: 300px;
+			height: 130px;
+		}
+	     #back_top_dialog{
+			height: 35%;
+		}
+		#btn_close_dialog{
+			left: 12%;
+		}
+   }
+    @media only screen and (min-width: 200px) and (max-width: 308px){
+ /*menu*/
+		 .Icon_menu{
+			top: 2%;
+			left: 5%;
+			display: block;
+		}
+		.Icon_cancel{
+			display: block;
+		}
+		 .back_menu{
+			 width: 60%;
+			 left: -65%;
+			 display: block;
+		 }
+		 #menu_bar li a {
+			font-size: 14px;
+		}
+		 #check:checked ~ label .Icon_cancel{
+		  left: 48%;
+	  }
+					/*header*/
+	#left_logo_bar{
+		width: 50%;
+	}
+	#logo_bar{
+		left: 40%;
+		font-size: 20px;
+	}
+	#menu_bar li a {
+		font-size: 14px;
+	}
+	#back_list_bar{
+		display: none;
+	}
+	#right_Header{
+		width: 50%;
+	}
+	#btn_Icon_Search{
+		width: 25px;
+		height: 25px;
+	    left: 0%;
+	    top: 25%
+	}
+	#Icon_Sala{
+		width: 22px;
+		height: 22px;
+		position: relative;
+		left: 5%;
+		top: 25%
+	}
+	#back_Search_bar{
+		height: 40px;
+	}
+	#Search_bar{
+		width: 63%;
+		height: 35px;
+		left: 1%;
+	}
+	#Sign_in{
+		width: 42%;
+		height: 32px;
+		top: 18%;
+		font-size: 12px;
+	}
+	#Icon_Search_bar{
+		position: relative;
+		left: 8%;
+		top: 15%;
+	}
+	#Icon_delete_Search{
+		position: relative;
+		left: -5%;
+	}			
+				    /*Home*/
+	       #Home{
+		    height: 330px;
+		   }
+	.main_slider{
+		width: 100%;
+	}
+	#back_slider_Home{
+	   width: 35%;
+	   height: 150px;
+	   left: 23%;
+	   top: 35%;
+    }
+    #back_Text_Many_Buy{
+	    width: 42%;
+	    height:55%;
+	    position: relative;
+	    top: 30%;
+    }
+    #back_Text_cover_slider{
+	    height: 52%;
+    }
+    #Text_cover_slider{
+	    font-size:11px;
+	    line-height: 30px ;
+    }
+    #text_many_slider{
+	  font-size: 12px;
+	  line-height: 10px;
+    }
+    #back_btn_slider_Home{
+	    width: 20%;
+    }
+    #text_feedback_slider{
+	    font-size: 15px;
+	    line-height: 25px;
+    }
+    #Icon_feedback_slider:nth-child(1){
+	    width: 16px;
+	    height: 16px;
+    }
+    #Icon_feedback_slider:nth-child(2){
+	     width: 16px;
+	     height: 16px;
+     }
+     #Icon_feedback_slider:nth-child(3){
+	     width: 16px;
+	     height: 16px;
+     }
+     #Icon_feedback_slider:nth-child(4){
+	     width: 16px;
+	     height: 16px;
+     }
+     #Icon_feedback_slider:nth-child(5){
+	     width: 16px;
+	     height: 16px;
+	}
+	#btn_buy_slider{
+		width: 78%;
+		height: 28px;
+		left: -5%;
+		font-size: 10px;
+	}
+				   /*section*/
+
+			 /*Trend*/
+	#Trend{
+		width: 100%;
+	}
+
+	#back_cover_trend{
+		width: 48%;
+		height: 225px;
+		margin: 2% 0% 0% 0%;
+		box-shadow: none;
+		border: 1px solid rgba(128, 128, 128, 0.418);
+		left: 1%;
+	}
+	#back_animation_Tredn{
+		display: none;
+	}
+		/*Icon Feedback*/
+		#back_feedback{
+
+		}
+		#Icon_feedback:nth-child(1){
+		   width: 15px;
+		   height: 15px;
+		}
+		#Icon_feedback:nth-child(2){
+			width: 15px;
+			height: 15px;
+		  }
+		  #Icon_feedback:nth-child(3){
+			width: 15px;
+			height: 15px;
+		  }
+		  #Icon_feedback:nth-child(4){
+			width: 15px;
+			height: 15px;
+		  }
+		  #Icon_feedback:nth-child(5){
+			width: 15px;
+			height: 15px;
+		  }
+			/*Shop*/
+	#Shop{
+		width: 100%;
+	}			
+	#back_cover_shop{
+		width: 48%;
+		height: 220px;
+		margin: 2% 0% 2% 0%;
+		box-shadow: none;
+		border: 1px solid rgba(128, 128, 128, 0.418);
+		left: 1%;
+	}	 
+	#back_animation_shop_top{
+		display: none;
+	}
+	#back_shop_bottom{
+		display: flex;
+		overflow: auto;
+	}
+	#back_cover_shop_bottom{
+		min-width: 55%;
+		height: 230px;
+		border: 1px solid grey;
+		border-radius: 10px 10px 0px 0px;
+		box-shadow: 0px 0px 0px;
+	}
+	#btn_add_card_shop{
+		opacity: 1;
+	}
+	#back_feedback_shop_bottom{
+	
+	}
+	#Icon_feedback_shop_bottom:nth-child(1){
+		width: 18px;
+		height: 18px;
+	}
+	#Icon_feedback_shop_bottom:nth-child(2){
+		width: 18px;
+		height: 18px;
+	}
+	#Icon_feedback_shop_bottom:nth-child(3){
+		width: 18px;
+		height: 18px;
+	}
+	#Icon_feedback_shop_bottom:nth-child(4){
+		width: 18px;
+		height: 18px;
+	}
+	#Icon_feedback_shop_bottom:nth-child(5){
+		width: 18px;
+		height: 18px;
+	}
+	#btn_add_card_shop_bottom{
+		width: 65%;
+		height: 30px;
+		left: 19%;
+	}
+		/*About*/
+		#left_logo_About{
+			width: 100%;
+			height: 70px;
+		} 
+		#Logo_About{
+			width: 50%;
+			height: 50%;
+			top: 25%;
+			font-size: 18px;
+			line-height: 20px;
+			float: left;
+		}
+		#Social_media{
+			width: 45%;
+			height: 30px;
+			top: 20%;
+			float: left;
+		}
+		#center_About{
+			width: 65%;
+			height: 150px;
+			position: relative;
+			left: 0%;
+		}
+		#left_About{
+			width: 20%;
+			height: 100%;
+			float: left;
+			position: relative;
+			left: 8%;
+		}
+		#right_contact{
+			width: 80%;
+			height: 100%;
+			float: left;
+			position: relative;
+			left: 40%;
+		}
+		#Icon_Call{
+			width: 12px;
+			height: 12px;
+		}
+		#right_About{
+			width: 95%;
+			height: 230px;
+			position: relative;
+			left: 2%;
+		}			
+		#left_Comment{
+			width: 55%;
+		}
+		#Input_Comment{
+		 
+		}
+		#right_Settings{
+			width: 40%;
+			position: relative;
+			left: 5%;
+		}
+		#Text_Settings_Theme{
+		
+		}
+		#Select{
+			width: 90%;
+			position: relative;
+
+		}
+			/*dialog_comment*/
+			#dialog_comment{
+				width: 270px;
+				height: 130px;
+			}
+			#back_top_dialog{
+				height: 35%;
+			}
+			#btn_close_dialog{
+				left: 8%;
+			}
+			#text_share_comment{
+                  font-size: 13px;
+			}
+   }
+   
+                              /*The End*/
+
+
+   
+
+   
+   
+
